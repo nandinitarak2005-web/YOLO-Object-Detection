@@ -120,7 +120,8 @@ This project uses the **Ultralytics YOLOv8** model for object detection.
 
 ## 📌 Author
 
-**Nandini Tarak
+**Nandini Tarak  
+intern id CITS2593
 
 ## ⭐ If you like this project
 
